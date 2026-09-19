@@ -11,4 +11,4 @@ https://gamebanana.com/wips/103040
 
 # The Test Build (on Googie Drive, synced from my PC)
 There is a test build available, on Google Drive, synced from my PC, and changes made there are in this bulid as well, you can find that (semi) nightly build here:
-https://drive.google.com/drive/folders/1ip1vZoD1zRFfawDF8K4oFJ9zPwrVEMZT
+comein soon
